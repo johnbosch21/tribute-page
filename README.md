@@ -1,0 +1,1 @@
+This is a Tribute Page project as part of the freecodecamp.org's course Responsive Web Design 
