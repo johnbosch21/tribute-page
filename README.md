@@ -1,6 +1,6 @@
 # Responsive Web Design Projects - Build a Tribute Page  
 
-## <a href="https://johnbosch21.github.io/tribute-page" target="_blank">My tribute page</a> on github.io
+## <a href="https://johnbosch21.github.io/tribute_page" target="_blank">My tribute page</a> on github.io
 
 * **Objective:** Build an app that is functionally similar to this: [FCC: Tribute Page](https://codepen.io/freeCodeCamp/full/zNqgVx)  
 * Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.  
